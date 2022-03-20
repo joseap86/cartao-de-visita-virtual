@@ -48,6 +48,7 @@ a {
     border: 2px solid gold;
     animation-name: borda;
     animation-duration: 4s;
+    animation-iteration-count: infinite;
     }
     @keyframes borda {
         from {
